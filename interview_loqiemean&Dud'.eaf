@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-23T23:12:11+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/ПОЗДРАВЛЕНИЕ С НОВЫМ ГОДОМ/Ролик для ELAN.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:75518515-c1f3-41ef-8626-eceb9657df83</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">52</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="20670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="21580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="24360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="24520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="45030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="45600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="46790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="47130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="47860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="54080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="54290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="55680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="59420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="59535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="70005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="70150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="75300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="75340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="79720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="79850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="86440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="86460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="93920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="94065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="100005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="100070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="103100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="104930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="104930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="108080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="108080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="108170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="108170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="149510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="149510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="149760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="162200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="162510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="232910"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Budko" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="@rvh1993m" TIER_ID="text@rvh1993m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>мхм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>                                                                                               сёрф серчингом? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>                                                                                                                                                                                        ммм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>да да конешн //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>я смотрю как мои действия / аа какимм / какой фидбэк я получаю на свои действия. Не все люди же хотят написать артисту конкретно о чем-либо / ии есть какие-то действия, которые я совершаю, я хочу увидеть, какая реакция на них типа получилось ли мне какую-то мысль донести / или аа / сделать какой-то такой прикол, который ээ / ну типа / порадовал людей / по крайней мере то что это типа оцените / степень / кринжа, которую ты вложил в свой продукт</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>оой да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>они всегда ужасные / и это нет такого чтоб я такой хмм может там что-то хо никогда  / это просто пиздец</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>замени имя в комментарии на Тарантино и зачитай снова</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ну просто //   ну конечно // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>смешение всего подряд / ааа / непонятно для кого. Но тока в плане периодичности как бы у меня разрыв между альбомами послденими был два года / иии типа до этого там были маленике ипишки их спокойно ты можешь выпускать хоть каждый год / ааа здесь типа два года мне кажется достаточно для того чтобы чота наклевалось хорошее, тем более до этого я очень много работал! / ааа для того чтоб были инструменталы или тексты / поэтомууу не понимаю это претензии / мы типа живем в эпоху ну / все хотят метамодерн постмодерн / ээа собираем различные свои культурные / м /  о пы ты / складываем этот культурный фон / берем оттуда поте.. потихонечку, понемножечку и делаем своих трансформеров / и это по-моему ну вполне естественно и нормально //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>я люблю разные жанры, я люблю музыку, в этом-то и дело, я люблю разную музыку я хочу себя пробовать в разной музыке и делают это так, но дело в том что / ааа локимин в итоге обрел свой собственный стиль даже в этой мешанине / ты всегда узнаешь песню локимина //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>еще Якутия меня научила такой штуке / ааа точнее ну культурный код / записала / то чтоо / мм наа злые гримасы и злые духи это не всегда что-то плохое это то что те с чем те нужно договориться / аа когда-то / ну то есть / эаа когда я начал появляться как исполнитель / эа люди там а че у тя черепа на обложке всякие страшные штуки такие мм / аа метальные эа мм визуальные ходы то что шрифт и так далее это все с детства шло то что / *вдох* мнаа ээ ну много ходили по экскурсиям здесь чота изучали / я обратил внимание то что шаманы когда надевают маски злые они же не олицетворяют зло, они отпугивают злых духов. / то же самое с тыквой на / мм хэлуин у американцев происходит они ну отпугивают злых духов, поэтому в самом в самой  этой злой гримасе нету зла / *вдох* вот а со злыми духами договориться это в том плане то что йкуты верили то что / *вдох* если человек заболел / ну, шаман / он думает либо ты должен / *цокает* маа как-то / ну отмолить этого человека либо ты должен принести в жертву животное как бэ обменяв здоровье животного на здоровье человека / то есть у тебя нет варианта с ними биться у тебя нет варианта вых победить у тебя есть вариант с ними тока договориться потому что это сила такая же / аа по сравнению как рай и ад они абсолютно тождественны ///</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Budko" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="@yad1986m" TIER_ID="text@yad1986m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ты же медиа-животное! Ты, как мне кажется, очень следишь за тем,  что пишут / э /  про тебя в интернете //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>ты занимаешься / ужасное слово, но / о / нет русского аналога / а / вэнити сёрчинг?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>/ э /  когда ты вбиваешь либо в гугл / либы вф ленту поиска твиттера //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>это приносит скорее пользу / или скорее </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>читаешь комментарии на флоу? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>*цокает" один хочу зачитать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>аа после того, как у тя вышел "Контроль" / эмм не / человек написал следующее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>*вдох* аа Локимин конечно максимальный бездарь / у него нет вкуса, нет своего стиля, он взял винегрет жанров, залил все это бензином / и начал обмазываться этим //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>*вдох* настроение альбома летает от "я бешеный псих с биполяркой" до "сентябрь горит" //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> все это под отвратительный шепчущий флоу и не менее отвратительный вокал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>тип не может в хит, не может в мощный припев, это какая-то пародия на жанры. Я не понимаю для кого это и не понимаю зачем это //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>можно же сделать два альбома за карьеру, / которые будут кормить тебя всю жизнь, / а можно каждый год выпускать такое, и оно будет кормить тебя этот год //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>*вдох* претензия в эклектичности / в мешанине. Насколько э / ты ее принимаешь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>а / такая же претензия к Тарантино //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Budko" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="utterance" PARENT_REF="text@yad1986m"
+        PARTICIPANT="@yad1986m" TIER_ID="trans@yad1986m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>you're actually the media-animal! You, as i consider, look carefully after what people write / a / about you in Internet //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>do you do / it's a terrible word, but / o /  there is no russian analogue / a / vanity searching?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>/ a / when you type in google / or in twitter's search line //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>do you read comments on flow? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>*click* I want to read one aloud //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>aa after the "Control" was released by you / emm / a person wrote the following //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>*inhale* aa loqiemean is the maximum talentless for real / he has no taste, no personal style, he took a vineigrette of genres, flushed it all with a gazoline / and started smearing with it //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>*inhale* the vibe of the album flies from "i'm an insane psycho with bipolar" to "September is burning" //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>all of this to the disgusting whispering flow and no less digusting vocal //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>a guy can't make a hit, can't make a strong chorus, this is some kind of parody for genres. I don't understand for whom is this and for what //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>one can actually record two albums during a whole career / which will feed you the whole life or one can record this annually and it will feed you for this year //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>*inhale* the claim is for the eclicticism / for a fusion. How do you a / do you take it? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>oh / the same claim to Tarantino //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Budko" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@rvh1993m"
+        PARTICIPANT="@rvh1993m" TIER_ID="trans@rvh1993m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>mhm //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>                                                                                                  surf searching? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>                                                                                                                                                                                         mmm //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>yes, yes of course</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>ohh yes //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>they are always terrible / and it never goes like me thinking "hmm maybe there is something go" never / it's total pizdec //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>replace the name in the comment with Tarantino and read it again //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>it's jjust //   well of course //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>fusion of everything / aaa / it is unclear for whom. But only about frequency like the gap between my last two albums was of two years / annd like thhere were some small EPs before it which you can calmly release even every year /  aaa there are two years like i think it is enough for something good to peck , even more so i've been working hard before it! / aaa so there are instrumentals or lyricks / sooo i don't understand this claim / we like live in the era so / everyone wants metamodern to postmodern / eea collecting our different cultural / m / expiriences / assemble this cultural phone / take a little.. a litttle bit from it and create our transformers / and it s completely natural and normal in my opinion // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>i like different genres, i love music, that is the point, i love different music and i want to try myself in different music and I do it like that, but the tihing is / aaa Loqiemean eventually found his iwn style even in this mess / you will always recognize Loqiemean's track //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>another thing Yakutia taught me / aaa more accurately wrote it down to my / cultural code / is that / mm evil grimaces and evil spirits are not always something bad it is something that you have to make a deal with / aa some day / you know / eaa when i started showing ,yself as an singer / ea people were like " why there are skulls on a cover and other creepy things like mm / aa metallist's ea mm visual moves like font and so on it all comes form my childhood that / *inhale* mnaa ee we've been visitng many excursions here learning something / I paid attenton on that shamans do not perform evil when they turn on their masks but they scare away evil spirits /  the same thing with the pumpkin for / mm haloween how it goes within americans they scare away evil spirits , so there is no evil in this evil grimace itself / *inhale* like that and about dealing with evil spirits it is in the sense that Yakuts believed that / *inhale* if a man fells ill / the shaman / he thinks that you either have to beg off this man or sacrifice an animal changing animal's health for man's health / so you don't have a variant to fight them you don't have variant to beat them you only can make a deal with them it is the same force  /  aa in comparrison like heaven and hell and there are completely similar // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
